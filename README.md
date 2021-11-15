@@ -6,6 +6,8 @@ The sources from which datasets were obtained are shown below:
 
 - EEG_segment.txt: segment obtained from the Bonn EEG Database.
 
+- iris: https://archive.ics.uci.edu/ml/datasets/iris
+
 - mercado.csv: manually generated.
 
 - mercado2.csv: modified from https://www.kaggle.com/ravinash218/shop-products-association/data

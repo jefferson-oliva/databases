@@ -2,7 +2,7 @@
 
 Known public datasets are available here for academic purposes only.
 
-In Python scripts, a dataset from this repository can be found using the following path: "https://raw.githubusercontent.com/jefferson-oliva/databases/master/DATASET_NAME_HERE.ITS_EXTENSION". For example: pandas.read_csv('https://raw.githubusercontent.com/jefferson-oliva/databases/master/iris.csv')
+In Python scripts, a dataset from this repository can be found using the following path: "https://raw.githubusercontent.com/jefferson-oliva/databases/main/DATASET_NAME_HERE.ITS_EXTENSION". For example: pandas.read_csv('https://raw.githubusercontent.com/jefferson-oliva/databases/main/iris.csv')
 
 
 The sources from which datasets were obtained are shown below:

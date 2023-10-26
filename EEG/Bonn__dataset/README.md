@@ -1,3 +1,4 @@
+Set descriptions:
 - set F: patient with epilepsy during an interictal event
 
 - set N: hippocampal formation in the brain opposite hemisphere in a patient with epilepsy
